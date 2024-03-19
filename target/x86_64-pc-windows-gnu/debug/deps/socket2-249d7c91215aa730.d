@@ -1,0 +1,11 @@
+/home/tamenis/Documentos/Rust/Practicas/prueba/target/x86_64-pc-windows-gnu/debug/deps/libsocket2-249d7c91215aa730.rmeta: /home/tamenis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.6/src/lib.rs /home/tamenis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.6/src/sockaddr.rs /home/tamenis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.6/src/socket.rs /home/tamenis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.6/src/sockref.rs /home/tamenis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.6/src/sys/windows.rs
+
+/home/tamenis/Documentos/Rust/Practicas/prueba/target/x86_64-pc-windows-gnu/debug/deps/libsocket2-249d7c91215aa730.rlib: /home/tamenis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.6/src/lib.rs /home/tamenis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.6/src/sockaddr.rs /home/tamenis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.6/src/socket.rs /home/tamenis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.6/src/sockref.rs /home/tamenis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.6/src/sys/windows.rs
+
+/home/tamenis/Documentos/Rust/Practicas/prueba/target/x86_64-pc-windows-gnu/debug/deps/socket2-249d7c91215aa730.d: /home/tamenis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.6/src/lib.rs /home/tamenis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.6/src/sockaddr.rs /home/tamenis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.6/src/socket.rs /home/tamenis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.6/src/sockref.rs /home/tamenis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.6/src/sys/windows.rs
+
+/home/tamenis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.6/src/lib.rs:
+/home/tamenis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.6/src/sockaddr.rs:
+/home/tamenis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.6/src/socket.rs:
+/home/tamenis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.6/src/sockref.rs:
+/home/tamenis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.6/src/sys/windows.rs:
